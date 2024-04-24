@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Links
-[My Github] (https://github.com/Freakthis/)
+[My Github](https://github.com/Freakthis/)
 
 <!--
 IDKTest
