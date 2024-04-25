@@ -17,18 +17,16 @@ Here are some ideas to get you started:
 
 
 ### Links
-[My Github](https://github.com/Freakthis/)
-[My Github] (https://github.com/Freakthis/)
-Here's a Link [My Github](https://github.com/Freakthis/)
-Here's a LInk [My Github](https://github.com/Freakthis/) with more words
+Testing out some links
 
 - [My Github](https://github.com/Freakthis/)
+#
 - [My Github] (https://github.com/Freakthis/)
 - Here's a Link [My Github](https://github.com/Freakthis/)
 - Creating a Profile README [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
 ### Books
-I recently got a few Books (I am to get both physical and ebook versions):
+I recently got a few Books (I aim to get both physical and ebook versions):
 
 - Learning Microsoft Intune [Amazon Link](https://amzn.to/3W9YQpq)
 - Mastering Microsoft Intune [Amazon Link](https://amzn.to/4bsVN07)
@@ -41,4 +39,5 @@ I recently got a few Books (I am to get both physical and ebook versions):
 
 <!--
 IDKTest
->
+-->
+Hopefully I keep this page updated
