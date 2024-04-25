@@ -37,6 +37,7 @@ I recently got a few Books (I aim to get both physical and ebook versions):
 - Powershell 7 for IT Professionals [Amazon Link](https://amzn.to/3U6O8x6)
 - Powershell in a Month of Lunches [Amazon Link](https://amzn.to/3QkaFFT)
 
+[Packt Free PDF](https://www.packtpub.com/page/free-ebook)
 <!--
 IDKTest
 -->
