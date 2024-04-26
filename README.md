@@ -32,13 +32,17 @@ I recently got a few Books (I aim to get both physical and ebook versions):
 - Mastering Microsoft Intune [Amazon Link](https://amzn.to/4bsVN07)
 - Microsoft Intune Cookbook [Amazon Link](https://amzn.to/4bbEMqQ)
 - Mastering Microsoft Endpoint Manager [Amazon Link](https://amzn.to/3JzsnBi)
+
 - Mastering WIndows 365 [Amazon Link](https://amzn.to/4dfF6Xm)
+
 - Mastering Powershell Scripting [Amazon Link](https://amzn.to/3Qf1M08) [Newer Version](https://amzn.to/3QhhtUC)
 - Powershell 7 for IT Professionals [Amazon Link](https://amzn.to/3U6O8x6)
 - Powershell in a Month of Lunches [Amazon Link](https://amzn.to/3QkaFFT)
 
-[Packt Free PDF](https://www.packtpub.com/page/free-ebook)
+
 <!--
+Saved Links
+[Packt Free PDF](https://www.packtpub.com/page/free-ebook)
 IDKTest
 -->
 
